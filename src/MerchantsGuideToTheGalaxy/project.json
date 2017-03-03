@@ -1,0 +1,20 @@
+{
+    "userSecretsId": "aspnet5-MerchantsGuideToTheGalaxy-20170302122122",
+    "version": "1.0.0-*",
+    "description": "MerchantsGuideToTheGalaxy Console Application",
+    "authors": [ "Narender" ],
+    "tags": [ "" ],
+    "projectUrl": "",
+    "licenseUrl": "",
+
+    "dependencies": {
+    },
+
+    "commands": {
+        "MerchantsGuideToTheGalaxy": "MerchantsGuideToTheGalaxy"
+    },
+
+    "frameworks": {
+        "dnx451": { }
+    }
+}
